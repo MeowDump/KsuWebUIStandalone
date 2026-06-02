@@ -1,10 +1,10 @@
 <resources>
-    <string name="app_name" translatable="false">KsuWebUI</string>
-    <string name="enable_webview_debugging">Debugging</string>
-    <string name="please_grant_root">Please grant root</string>
-    <string name="no_modules">No modules</string>
-    <string name="loading">Loading …</string>
-    <string name="author">Author: %s</string>
+    <string name="app_name" translatable="false">WebUI</string>
+    <string name="enable_webview_debugging">Inject Eruda</string>
+    <string name="please_grant_root">ROOT permission is required. reality is optional, suffering is not</string>
+    <string name="no_modules">No WebUI detected in your installed module list</string>
+    <string name="loading">Getting things ready …</string>
+    <string name="author">By: %s</string>
     <string name="version">Version: %s</string>
     <string name="show_disabled">Show Disabled</string>
     <string name="enable_monet_color">Monet Color</string>
