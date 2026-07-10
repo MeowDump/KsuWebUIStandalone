@@ -10,4 +10,10 @@
     <string name="enable_monet_color">Monet Color</string>
     <string name="start_downloading">Start downloading</string>
     <string name="download_failed">Download failed: %s</string>
+    <string name="open">WebUI</string>
+    <string name="action">Action</string>
+    <string name="donate">Donate</string>
+    <string name="support">Support</string>
+    <string name="copy_details">Copy details</string>
+    <string name="remove">Remove</string>
 </resources>
