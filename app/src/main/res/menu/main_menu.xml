@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
+
     <item
-        android:checkable="true"
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="ifRoom" />
+
+    <item
         android:id="@+id/enable_webview_debugging"
-        android:title="@string/enable_webview_debugging"
-        app:showAsAction="never" />
-    <item
+        android:title="Inject Eruda"
         android:checkable="true"
+        app:showAsAction="never" />
+
+    <item
         android:id="@+id/show_disabled"
-        android:title="@string/show_disabled"
-        app:showAsAction="never" />
-    <item
-        android:id="@+id/enable_monet"
-        android:title="@string/enable_monet_color"
+        android:title="Show Disabled Modules"
         android:checkable="true"
         app:showAsAction="never" />
+
 </menu>
