@@ -104,4 +104,6 @@ dependencies {
     implementation(libs.com.github.topjohnwu.libsu.io)
 
     implementation(libs.dev.rikka.rikkax.parcelablelist)
+
+    implementation("com.github.bumptech.glide:glide:4.16.0")
 }
